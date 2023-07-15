@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: react-docker
-        image: mirzahasanbaig/react-docker
+        image: mirzahasanbaig/react-docker:latest
         ports:
         - containerPort: 80
